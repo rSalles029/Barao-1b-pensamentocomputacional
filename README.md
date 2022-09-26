@@ -1,2 +1,2 @@
-# Barao-1b-pensamentocomputacional
-Site desenvolvido em html e css 
+# Bar-o-1-b-pensameto-computacional
+desenvolvimento de site HTML e CSS
